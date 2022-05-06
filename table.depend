@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646943543 source:/home/guta/Desktop/C++/lab0/table/main.cpp
+	<iostream>
+	<iomanip>
+
