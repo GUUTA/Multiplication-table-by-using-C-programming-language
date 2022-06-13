@@ -1,7 +1,10 @@
 #include<iostream>
 #include<iomanip>
 using namespace std;
-
+/**
+* Abbaan kodii kan Guutaa Tasammaa ti.
+ * kodii kan enyuu ille faayadamuu ni danda'uu, garu gitihuub kan lakii gochuu hin dagatina
+*/
 int main(){
 
 cout<<"Multiplication Table \n";
